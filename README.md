@@ -35,6 +35,7 @@ An AI built a number guessing game — but it's full of bugs. Hints lie, scores 
 
 Game runs correctly — hints match guesses, score is fair, and all 10 pytest tests pass.
 
+
 ## 🚀 Stretch Features
 
 - Core bugs fixed and all tests passing with `PYTHONPATH=. pytest`
